@@ -21,5 +21,5 @@ class MapPruebaHumboldt extends Component {
 crédito, por si se genera tráfico hacer un cobro por parte de 
 google */
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyB25aNOkv4WCqvqJoajkQ2mLU2sstOoss8"
+  apiKey: "YOUR_API_KEY"
 })(MapPruebaHumboldt);
